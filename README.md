@@ -1,6 +1,9 @@
 # data_mining
 Data mining group project
 
+Download python file and data file and run in same folder.
+
+If you need to install any libraries:
 Run one of these commands depending on your setup: replace {library name} with the library that you need to install
 
 Example: 
